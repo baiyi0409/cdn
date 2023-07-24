@@ -44,6 +44,7 @@ const initConfig = {
   onModelLoad: onModelLoad
 }
 
+/*改变加载位置 */
 function 加载圣·嘉然() {
   pio_reference = new Paul_Pio(initConfig)
 
