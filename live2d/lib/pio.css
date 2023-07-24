@@ -144,7 +144,7 @@
 .pio-container.right .pio-dialog {
     right: 1em
 }
-
+/* 这里定义模型的大小 */
 #pio {
 	height: 240px;
     vertical-align: middle
